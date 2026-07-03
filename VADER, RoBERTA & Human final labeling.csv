@@ -1,0 +1,344 @@
+,id,headlines,vader_prediction,roberta_prediction,Human 1,Human 2,Human 3,Final Sentiment
+1,1139,74% of 67M ballots for May polls printed: Comelec,neutral,negative,N,Nu,Nu,Nu
+2,1329,BARMM extends aid to 750 IPs in NoCot,positive,positive,P,P,P,P
+3,1506,BARMM opens another Covid-19 facility in Maguindanao,neutral,positive,P,P,P,P
+4,116,Senate to look into BARMM's low budget utilization,negative,negative,N,Nu,N,N
+5,1260,BARMM sends relief goods to Dinagat Islands,positive,positive,P,P,P,P
+6,1522,Expansion of Buluan hospital pushed,neutral,positive,P,P,P,P
+7,1702,9 recoveries bring down BARMM Covid-19 caseload to 137 cases,neutral,positive,P,P,P,P
+8,556,SWS survey validates relevance of Food Stamp Program - DSWD,positive,positive,P,P,P,P
+9,1056,Palace declares May 3 regular holiday to mark Eid'l Fitr,positive,negative,P,Nu,Nu,Nu
+10,1175,Trough of LPA to bring rains over parts of Mindanao,neutral,negative,N,Nu,Nu,Nu
+11,416,160-man elite police unit deployed to Lanao Sur for peacekeeping,positive,positive,P,P,Nu,P
+12,1023,PDEA seizes P6.8-M shabu in Cotabato City,neutral,negative,P,N,N,N
+13,366,Nearly 90K voters to join plebiscite on creation of 8 Cotabato towns,positive,positive,P,Nu,Nu,Nu
+14,1269,Over 1.5M Janssen doses donated by Dutch gov't arrive,neutral,positive,P,P,P,P
+15,923,New buildings open in 5 schools in Maguindanao,neutral,positive,P,P,P,P
+16,1655,BARMM completes P50-M school projects in Sulu,neutral,positive,P,P,P,P
+17,901,BARMM to bring gov't services to Basilan,neutral,positive,P,P,P,P
+18,412,State of human rights in PH improves under PBBM admin,positive,positive,P,P,P,P
+19,620,VP Sara lauds stakeholders help in BARRM during Ramadan,positive,positive,P,P,P,P
+20,24,BARMM launches P32.6-M school building projects in Maguindanao Sur,neutral,positive,P,P,P,P
+21,1235,BARMM starts 2022 with P200-M investments,neutral,positive,P,Nu,P,P
+22,1074,P38-M bridge seen to improve road connectivity in Lanao Sur,positive,positive,P,P,P,P
+23,991,PDEA-BARMM declares 76 villages 'drug-free',neutral,positive,P,P,P,P
+24,395,DBM: Gov't efforts to develop Mindanao bearing fruit ,neutral,positive,P,P,P,P
+25,479,Maguindanao Sur mayor arrested for murder of town councilor,negative,negative,P,N,N,N
+26,272,Japan approves $5.5M grant for birth registration in BARMM,positive,positive, P,P,P,P
+27,1576," 148 new community midwives, 7 doctors deployed in Lanao Sur",neutral,positive,P,P,Nu,P
+28,174,3 weather systems to dampen most of PH,neutral,negative,N,Nu,N,N
+29,592,"BARMM is safe, secured: MinDA study",positive,positive,P,P,P,P
+30,1011,"DENR, partners plant over 41K tree seedlings in Region 12, BARMM",neutral,positive,P,P,P,P
+31,241,"Nearly 118K families affected by LPA, 'habagat'",negative,negative,N,N,N,N
+32,627,Rains to continue over PH Thursday as Mawar reintensifies,neutral,negative,Nu,N,N,N
+33,204,"PDEA-BARMM seizes P3.4-M shabu, nabs 'peddler' in Lanao Sur",neutral,negative,P,N,N,N
+34,1526,2 men yield unlicensed firearm in Maguindanao town,neutral,negative,N,N,N,N
+35,1599,BARMM logs 4.7K approved biz registrations in Q1 2021,positive,positive,Nu,P,P,P
+36,372,Bill seeking to improve BARMM vax rates filed,positive,positive,P,P,P,P
+37,1662,Journalist-turned-solon files Bangsamoro FOI bill,neutral,negative,Nu,P,Nu,Nu
+38,1166,"BARMM vax hesitancy diminishing, chief minister says",negative,positive,Nu,Nu,N,Nu
+39,325,"2 nabbed, P6.8-M shabu seized in Marawi City",neutral,negative,P,N,N,N
+40,622,More cops deployed to Lanao Sur town threatened by ISIS,negative,negative,N,N,N,N
+41,915,76K flood-hit families get P15-M aid from BARMM,neutral,positive,P,P,P,P
+42,1183,"BaSulTa gets medical equipment, supplies",neutral,positive,P,P,P,P
+43,1367,P8-M rice processing complex to rise in Maguindanao,neutral,positive,P,P,P,P
+44,1085,PRRD conducts aerial inspection of 'Agaton'-hit Baybay City,neutral,negative,P,Nu,Nu,Nu
+45,1660,"Marawi City jail personnel, inmates negative for drug use: PDEA",negative,negative,P,P,Nu,P
+46,248,"Rains across PH due to LPA, 'habagat'",neutral,negative,Nu,Nu,Nu,Nu
+47,597,BARMM chief religious leader dies at 81,neutral,negative,Nu,N,N,N
+48,1014,P2-M feed mill to boost BARMM' halal compliance,positive,positive,P,P,P,P
+49,353,"DOH urges vaccination vs. measles, pertussis as cases rise",neutral,negative,P,N,N,N
+50,1152,PDEA nabs town councilor' wife in Maguindanao,neutral,negative,N,N,N,N
+51,238,Things looking up for BARMM; poverty rate on the decline,negative,positive,P,P,P,P
+52,951,BARMM mourns death of ex-Lamitan City mayor,negative,negative,Nu,N,N,N
+53,1439,BARMM remains Covid-19 'low risk' area,negative,positive,P,P,P,P
+54,50,UN condemns deadly Basilan ambush; vows to stay in BARMM,negative,negative,P,N,N,N
+55,536,Approved foreign investment pledges up 28% in Q2,positive,positive,P,P,P,P
+56,1424,HIV treatment at Zambo hospital ongoing amid pandemic,neutral,negative,P, Nu,Nu,Nu
+57,304,CIDG warns public vs. fake dentists in BARMM,negative,negative,P,N,N,N
+58,1240,BARMM turns over P4.2-M school building in Maguindanao,neutral,negative,P,P,P,P
+59,589,OPAPRU: Marcos admin committed to sustaining 'peace gains',positive,positive,P,P,P,P
+60,186,BARMM gov't plans to acquire DBP shares in Al-Amanah Islamic Bank,positive,negative,Nu,P,P,P
+61,482,"PH, Qatar vow to work closely to mitigate climate change",neutral,positive,P,P,P,P
+62,723,BARMM's Wali Nando major pillar of peace process: OPAPRU,positive,positive,P,Nu,Nu,Nu
+63,1224,"Contractual, job order BARMM workers now SSS members",neutral,positive,P,P,Nu,P
+64,874,"Maguindanao dealer falls, P680K shabu seized",neutral,negative,P,N,N,N
+65,1336,House to transmit version of 2022 budget to Senate Oct. 27,neutral,positive,P,Nu,Nu,Nu
+66,1296,Sultan Kudarat cops entrap colleague in drug operation,neutral,negative,P,N,N,N
+67,1380,Maguindanao town gets P3-M community fish landing center,neutral,positive,P,P,P,P
+68,1121,"BARMM in right direction, says top exec",positive,positive,P,P,P,P
+69,1678, Region-12 receives 18K Sinovac jabs for health workers,neutral,positive,P,P,P,P
+70,539,BARMM chief: Respect SC ruling on Maguindanao Norte treasurer,positive,negative,P,Nu,Nu,Nu
+71,79,House passes bill postponing BARMM polls,negative,negative,Nu,Nu,N,Nu
+72,406,OPAPRU: Swift actions to address 'rido' to preserve BARMM peace gains,positive,positive,P,P,P,P
+73,368,PBBM hails outgoing Japan envoy' role in improved PH-Japan ties,positive,positive,P,P,P,P
+74,71,2024 investments in BARMM surpass P4.7B,neutral,positive,P,P,P,P
+75,136,ITCZ to bring scattered rains over parts of PH,neutral,negative,Nu,Nu,N,Nu
+76,70,DSWD returns 'normalization fund' to BTr amid lack of beneficiary list,positive,negative,P,N,P,P
+77,1194,Over 17M ballots printed since January: Comelec,neutral,positive,P,Nu,Nu,Nu
+78,384,2 drug suspects yield P3.4-M shabu in Cotabato,negative,negative,P,N,N,N
+79,1694,UN official assures support for BARMM,positive,positive,P,P,P,P
+80,323,Measles cases 5x higher compared to last year - DOH,neutral,negative,N,N,N,N
+81,680,"Marcos appoints new Peace and Order Council, SBMA officials",positive,negative,Nu,Nu,Nu,Nu
+82,811,350 LGUs to get DILG' Seal of Good Local Governance,positive,positive,P,P,P,P
+83,1246,BARMM parliament OKs P79.8-B budget for 2022,neutral,positive,Nu,P,P,P
+84,66,"MinDA, DOT to enhance partnership for Mindanao tourism promotion",neutral,positive,P,P,P,P
+85,1290,BARMM hands over P3.5-M village hall building in Maguindanao,neutral,negative,P,P,P,P
+86,711,Printing of over 90M BSKE ballots 50% completed: Comelec,neutral,negative,P,P,P,P
+87,1597,Duterte to visit Cotabato after Datu Paglas incident,neutral,negative,Nu,Nu,Nu,Nu
+88,1361,BARMM hails Duterte legacy as 'more than excellent',positive,positive,P,P,P,P
+89,1617,BARMM issues IRR for universal health care,positive,positive,P,P,N,P
+90,843,More areas under wind signals as Paeng accelerates,neutral,positive,N,N,N,N
+91,1113,"BARMM gets sea ambulances from Japan, IOM",neutral,positive,P,P,P,P
+92,290,PBBM assures El Nino aid to reach even the farthest parts of PH,positive,positive,P,P,P,P
+93,30,"BARMM town mayor, 3 aides held in gun ban bust",negative,negative,N,N,N,N
+94,496,"Comelec wraps ballot printing, gears for deployment",neutral,positive,P,P,Nu,P
+95,545,DBM chief reiterates PBBM' commitment to BARMM' dev't,positive,negative,Nu,P,Nu,Nu
+96,301,"BPSF pours P580M in gov't services, aid to Zambo beneficiaries",positive,positive,P,P,P,P
+97,602,PH secures $1.1-billion loans from World Bank,positive,positive,Nu,P,P,P
+98,614,PNP monitoring 36 private armies in BARMM ahead of BSKE,neutral,negative,P,N,P,P
+99,31,103 BARMM towns tagged as 'areas of concern' for 2025 polls,neutral,negative,Nu,N,N,N
+100,1089,Mini surge' of Covid-19 cases in BARMM likely to happen: NVOC,neutral,positive,N,N,N,N
+101,1537,"MOH-BARMM delivers equipment, supplies to Maguindanao hospitals",neutral,positive,P,P,P,P
+102,480,PNP: 70% 'areas of grave concern' list in BARMM,negative,negative,N,N,N,N
+103,417,"Police nab gunrunner, 3 others in Maguindanao Norte, North Cotabato",neutral,negative,P,N,N,N
+104,262,Farmer' daughter earns Engineering degree as BARMM scholar,neutral,positive,P,P,P,P
+105,1689,BARMM provinces to get own disaster response units,negative,negative,P,P,P,P
+106,1445,"UK, UNDP push for women's involvement in Bangsamoro",neutral,positive,P,P,P,P
+107,1633,BARMM opens 2nd batch of science scholarships,neutral,positive,P,P,P,P
+108,100,"BARMM-MILG budget raised to boost disaster preparedness, response",negative,positive,P,P,P,P
+109,994,"19 wanted men fall, P17-M shabu seized in BARMM",neutral,negative,P,N,N,N
+110,451,"BARMM cops get 19 new patrol vehicles, security equipment",positive,positive,P,P,P,P
+111,1232,TRO sought vs. rule barring SGA-BARMM voters from local polls,neutral,negative,Nu,Nu,N,Nu
+112,1135,121 ex-MILF rebels now equip with skills to start normal lives,negative,positive,P,P,P,P
+113,533,"Agri, infra damage from 'habagat', recent typhoons reach P12-B",negative,negative,N,N,N,N
+114,1710,1K teachers from BARMM villages in NoCot get first salary ,neutral,positive,P,P,Nu,P
+115,409,Cops probe murder of BARMM parliament employee,negative,negative,P,N,Nu,N
+116,1316,"Against her plea, Sara supporters push through with caravan",positive,negative,N,Nu,N,N
+117,1250,BARMM eyes traditional marketplace revival in Maguindanao,neutral,positive,P,P,P,P
+118,1103,Gov't eyes special vax days in BARMM to curb Covid-19 surge,positive,negative,P,P,P,P
+119,507,ECCP calls for sustainable agri to meet rising food demand,negative,positive,P,P,P,P
+120,830,National state of calamity unnecessary: Marcos,neutral,negative,N,Nu,Nu,Nu
+121,383,PDEA-BARMM nets P18.3-M shabu since Jan. 1,neutral,positive,N,N,N,N
+122,317,NoCot farmers see more income in gov't irrigation projects,neutral,positive,P,P,Nu,P
+123,577,"DOH chief vows support for CRMC, BARMM health programs",positive,positive,P,P,P,P
+124,211,BARMM donates to CRMC P31-M aid for indigent patients,neutral,positive,P,P,P,P
+125,189,ODA loans instrumental to make BARMM 'investment hub': DBM,neutral,positive,Nu,P,N,Nu
+126,33,Comelec: No more time to hold Sulu plebiscite,negative,negative,Nu,Nu,N,Nu
+127,591,"Farmers, women' group get agricultural aid from BARMM",neutral,positive,P,P,P,P
+128,1418,"Don't sell lands, BARMM reminds Maguindanao CLOA recipients",neutral,negative,P,Nu,Nu,Nu
+129,1109,PH needs 23M shots to reach 90M target vaccinees by June,neutral,negative,Nu,Nu,Nu,Nu
+130,681,"Comelec, watchdogs welcome enactment of Bangsamoro electoral code",positive,positive,P,P,P,P
+131,1593,BTA-BARMM steps up passage of regional laws amid pandemic,neutral,negative,P,P,P,P
+132,1297,IATF to roll out Covid-19 alert level system in remaining regions,positive,positive,P,P,P,P
+133,1458,Farmer yields P136-K shabu in Cotabato,neutral,positive,N,N,N,N
+134,483,BARMM probes alleged anomalies in hiring teachers,neutral,negative,P,N,N,N
+135,906,DA pushes banner programs for 2023; eyes 20M MT rice production,neutral,positive,P,P,P,P
+136,1594,BARMM chief appeals for vigilance vs. Covid-19 as fasting ends,neutral,negative,P,Nu,P,P
+137,888,DBM launches competency course for BARMM finance managers,neutral,positive,P,P,P,P
+138,45,Senate hopes for House to adopt 5-month deferral of BARMM polls,positive,positive,Nu,Nu,P,Nu
+139,1252,"PNP ends 2021 with greater transparency, enhanced capability",positive,positive,P,P,P,P
+140,530,BARMM spox: Only 1 governor in Maguindanao Norte,neutral,negative,Nu,Nu,Nu,Nu
+141,1392,House OKs bill resetting BARMM polls to 2025 on final reading,neutral,positive,Nu,Nu,Nu,Nu
+142,1027,Direct flights within BARMM begin June 9,neutral,positive,P,P,P,P
+143,60,Comelec suspends printing of ballots for 2025 midterm polls,neutral,negative,Nu,N,Nu,Nu
+144,1484,BARMM education ministry builds more school buildings,neutral,positive,P,P,P,P
+145,1160,MENRE-BARMM to politicians: 'Spare our trees',neutral,negative,P,P,Nu,P
+146,1571,BARMM facilitates return of 496 Filipinos from Sabah ,neutral,positive,P,P,P,P
+147,1289,Westmincom to secure national vaccination days,positive,positive,P,P,P,P
+148,1381,Creation of Bangsamoro Nutrition Council pushed,positive,positive,P,P,P,P
+149,340,10 firearms recovered from Maguindanao Norte armed groups,neutral,negative,P,P,N,P
+150,725,Drug pusher yields P1.7-M shabu in Lanao Sur drug bust,neutral,negative,P,N,N,N
+151,221,Strong PH gov't-Bangsamoro ties reflect 'Bagong Pilipinas' vision,positive,positive,P,P,Nu,P
+152,1171,C. Visayas posts low vax output for elderlies,negative,negative,Nu,N,N,N
+153,586,BARMM extends P83-M aid to SGA farmers in NoCot town,positive,positive,P,P,P,P
+154,778,Gov't taps ex-ASG members in anti-terror campaign,neutral,negative,P,P,Nu,P
+155,1399,P3.4-M shabu seized from suspected big-time drug peddler,negative,negative,P,N,N,N
+156,332,HWPL to highlight core initiatives in 2nd Nat'l Peace Convention,positive,positive,P,P,P,P
+157,782,Türkiye committed to supporting Bangsamoro peace process,positive,positive,P,P,P,P
+158,260,PBBM bares P100-M Jolo airport dev't project,neutral,negative,P,P,N,P
+159,966,118 loose guns seized in BARMM,negative,negative,P,P,N,P
+160,1636,"Couple arrested, P6.8-M shabu seized in Marawi drug bust",negative,negative,P,N,N,N
+161,1031,"219 ex-MILF rebels get skills training, financial aid",negative,positive,P,P,N,P
+162,1064,"NGOs from Turkey, Germany send food packs for Ramadan",neutral,positive,P,P,P,P
+163,985,9 Lanao Sur towns candidates for 'drug-clear municipalities',neutral,negative,P,P,Nu,P
+164,415,BARMM consults public on bill creating parliamentary districts,positive,positive,P,P,P,P
+165,240,Comelec hopes Marcos SONA includes vote call for Filipinos,positive,positive,Nu,Nu,P,Nu
+166,1051,"9K cops, soldiers to ensure poll security in BARMM",positive,positive,P,P,Nu,P
+167,632,"BARMM police gets 200 new rifles, mobility assets",positive,positive,P,P,P,P
+168,1141,BARMM names new ministers,neutral,positive,Nu,Nu,Nu,Nu
+169,125,NDRRMC: 'Kristine' death toll rises to 13,negative,negative,N,N,N,N
+170,1321,Stricter police checkpoints up in BARMM vs. terror threat,negative,negative,P,P,P,P
+171,716,"Agri, fisheries state college in Basilan pushed",neutral,negative,P,P,P,P
+172,1207,Local leaders crucial in addressing vax hesitancy in Muslim areas,negative,positive,Nu,P,Nu,Nu
+173,1344,Maguindanao seaweed farmers get P4.7-M facility from BARMM,neutral,positive,P,P,P,P
+174,842,Maguindanao flooding death toll rises to 31,negative,negative,N,N,N,N
+175,434,"4 dead, 50 injured as blast rocks MSU in Marawi City",negative,negative,N,N,N,N
+176,999,BARMM greatest legacy of Duterte to Muslims: reg'l exec,positive,positive,NU,P,Nu,Nu
+177,163,"Fair weather, isolated rain showers continue across PH",neutral,positive,Nu,Nu,P,NU
+178,1470,Duterte lauded for ending conflict in Mindanao,negative,positive,P,P,P,P
+179,808,DBM chief dreams of a 'thriving' BARMM,positive,positive,Nu,P,Nu,Nu
+180,463,"Education, infra, health get lion' share in 2024 BARMM budget",positive,positive,P,P,P,P
+181,840,72 deaths due to Paeng being validated,positive,negative,N,N,N,N
+182,1587,Maguindanao guv installs caretaker-mayor opposed by BARMM,neutral,negative,Nu,N,N,N
+183,486,"Cotabato airport reopening to boost economic, tourism growth",positive,positive,P,P,P,P
+184,765,Agri-fair marks weeklong Shariff Kabunsuan Festival in BARMM,positive,positive,P,P,Nu,P
+185,693,BARMM okays P130-M investments in February,positive,positive,P,P,P,P
+186,1649,PDEA BARMM destroys P22-M illegal drugs,negative,negative,Nu,P,Nu,Nu
+187,943,PH detects 906 more cases of Omicron BA.5 subvariant,neutral,negative,Nu,N,N,N
+188,1334,Tawi-Tawi gets P4.8-M seaweed buying station project,neutral,positive,Nu,P,P,P
+189,766,"DILG urges LGUs to continue aquatic rehab, preservation efforts",neutral,positive,P,P,P,P
+190,856,"PBBM's 1st 100 days: Recap of accomplishments, policies",neutral,positive,Nu,P,Nu,Nu
+191,1647,Ugale assumes as new BARMM top cop,positive,positive,Nu,Nu,Nu,Nu
+192,169,"20 dead from 'habagat,' 2 cyclones - NDRRMC",negative,negative,N,N,N,N
+193,758,BARMM cops get P33-M worth of patrol cars ,positive,negative,P,P,P,P
+194,866,"Marcos admin steadfast in pursuit of peace, dev't in BARMM",positive,positive,P,P,P,P
+195,74, OPAPRU gives P25-K education grant to children of ex-MNLF fighters,positive,positive,P,P,P,P
+196,110,PH disaster preparedness improves: Harvard study,negative,positive,P,P,P,P
+197,1467,"2 arrested, P3.4-M 'shabu' seized in Maguindanao",negative,negative,P,N,N,N
+198,695,PHP1.2-B new equipment boosts PNP modernization efforts,positive,positive,P,P,P,P
+199,213,BARMM pushes for creation of reg'l FDA office,positive,positive,P,P,P,P
+200,907,Rescued 'big bird' in Cotabato City set for release,positive,positive,P,P,P,P
+201,351,DOH pushes for non-selective vaccination drive vs. measles in BARMM,neutral,negative,P,P,P,P
+202,1278,BARMM works double time to achieve population protection,neutral,positive,P,P,Nu,P
+203,984,Bangsamoro barter trade can expect seamless clearance: BOC Davao,neutral,positive,P,P,Nu,P
+204,865,Traveling salesman: PBBM reaps P1-T biz pledges in 1st 100 days,neutral,positive,P,P,P,P
+205,52,"BOL fruit of Bangsamoro's pursuit for self-determination, governance",neutral,positive,P,P,P,P
+206,299,"Drug peddler falls, yields P3.4-M shabu in Marawi City",neutral,positive,P,N,N,N
+207,889,"Support peace process in BARMM, PBBM tells military",positive,positive,P,P,P,P
+208,77,Islamic teacher shot dead in North Cotabato,negative,negative,N,N,N,N
+209,1162,Bangsamoro police seek support to eradicate loose firearms,positive,positive,P,P,Nu,P
+210,937,OP undertakes 'stringent' BTA selection process,neutral,positive,P,P,P,P
+211,987,BARMM report part of PRRD fulfillment of peace process,positive,positive,P,P,Nu,P
+212,1428,Modern banana farms to rise in NoCot,neutral,negative,P,P,P,P
+213,552,"200 ex-MNLF, MILF members pass initial tests for aspiring cops",neutral,positive,Nu,P,P,P
+214,255,'Drug peddler' slain in buy-bust in Maguindanao Sur,neutral,negative,NU,N,N,N
+215,722,"MILF co-founder Sheik Khalifa Nando dies, 82",neutral,negative,NU,N,N,N
+216,712,ASG 'spy' with P5.3-M bounty nabbed in Zamboanga City,neutral,negative,P,P,N,P
+217,124,DSWD chief in CamSur to oversee relief ops on orders from PBBM,positive,negative,NU,P,Nu,Nu
+218,1212,Early printing gives Comelec time to prepare for contingencies,neutral,positive,P,P,Nu,P
+219,1117,BARMM fetes 6 champions of women' welfare,positive,positive,P,P,P,P
+220,1455,Remote Basilan school assured of inclusion in feeding program,positive,positive,P,P,P,P
+221,367,"MBHTE-BARMM starts P11.9-M covered courts, water sanitation projects ",neutral,positive,P,P,P,P
+222,756,"BARMM generates P1.3-B investments, 1K jobs in 2022",neutral,positive,P,P,P,P
+223,1388,DND coordinates with Japan on details of terror attack advisory,negative,negative,NU,Nu,N,Nu
+224,1489,BARMM's 'palay' yield up 36% in Q1 2021,neutral,positive,NU,P,P,P
+225,252,NDRRMC: 2 dead as 'habagat' rains drench Mindanao,negative,negative,N,N,N,N
+226,558,CPD to provide policies on effects of demographic trends on dev't,neutral,negative,NU,Nu,Nu,Nu
+227,1704,Maguindanao mayors back extension of BARMM' transition period,neutral,negative,NU,P,P,P
+228,345,BARMM deploys anti-measles 'bakunadors' for 1.3M kids,neutral,negative,P,P,P,P
+229,969,"Marijuana plantation raided, 3K plants seized in Lanao Sur",neutral,negative,P,P,N,P
+230,1705,"1,500 BARMM PWDs to get walking aids",neutral,positive,P,P,P,P
+231,882,Canada announces P519-M grant to fund PH dev't projects,positive,negative,P,P,P,P
+232,701,DBM vows support for BARMM's digital transformation,positive,positive,P,P,P,P
+233,1311,Fugitive couple nabbed in Lanao del Sur,neutral,positive,P,N,N,N
+234,1306,"BARMM, EU launch P1.5-B SUBATRA program",neutral,positive,P,P,P,P
+235,1097,Public advised to take precautionary measures as 'Agaton' weakens,negative,negative,P,Nu,N,Nu
+236,414,BARMM has highest poverty incidence in Mindanao - NAPC,negative,negative,N,N,N,N
+237,68,Supreme Court in 2024: Clearance rate of 87%,positive,positive,NU,P,Nu,Nu
+238,343,BARMM parliamentary polls will push through as scheduled - Galvez,neutral,positive,NU,P,Nu,Nu
+239,1217,BARMM educ office to resume F2F classes in select areas,neutral,positive,NU,Nu,Nu,Nu
+240,142,CIDG-BARMM arrests 2 suspected gunrunners in MagNor,negative,negative,P,N,N,N
+241,1651,BARMM targets more poor communities for housing projects,negative,positive,P,P,N,P
+242,837,DSWD ramps up operations for Paeng-affected families,neutral,negative,P,P,Nu,P
+243,940,PH detects 225 more cases of 3 Omicron subvariants,neutral,negative,N,N,N,N
+244,454,BSKE results to be uploaded to Comelec website next week - Garcia,neutral,neutral,NU,P,P,P
+245,1595,"5 illegal gamblers yield drugs, arms in Maguindanao town",negative,negative,P,N,N,N
+246,603,Hunt on for ex-Sulu vice mayor as 6K evacuated due to clashes,neutral,negative,NU,N,N,N
+247,1659,BARMM awards P3.7-B infra-projects for Lanao Sur LGUs,positive,positive,P,P,P,P
+248,706,"MinDA, UN office partner for Mindanao dev't",neutral,negative,P,P,P,P
+249,1631,BARMM deploys price-monitoring teams for Ramadan,neutral,positive,P,P,P,P
+250,515,"OPAPRU, QC LGU lead peace bell ringing ceremony",positive,positive,NU,P,P,P
+251,1608,"7 towns, hospital in Lanao Sur get ambulances from MOH-BARMM",neutral,positive,P,P,P,P
+252,1555,BARMM starts building decent homes for indigents,neutral,positive,P,P,P,P
+253,352,Localized normalization program adopted to benefit ex-MILF combatants,positive,positive,P,P,P,P
+254,1210,BARMM welcomes Senate nod to grant amnesty to MILF members,positive,positive,NU,P,P,P
+255,1091,Least-vaxxed region BARMM warned of future surge,negative,negative,NU,N,N,N
+256,271,10 flagship programs unveiled on UP' 116th founding anniversary,positive,positive,NU,P,P,P
+257,185,SC affirms Bangsamoro Organic Law; rules Sulu not part of BARMM,neutral,positive,NU,Nu,Nu,Nu
+258,702,Comelec: Printing of ballots for 2022 BSKE 74% complete,neutral,positive,P,P,Nu,P
+259,245,BARMM braces for possible spike in flood-related diseases,neutral,negative,NU,P,N,N
+260,911,Comelec 'all set' for Sept. 3 Calaca plebiscite,neutral,positive,P,P,Nu,P
+261,276,CIDG-BARMM agents arrest wanted BIFF commander in MagSur,negative,negative,NU,P,N,P
+262,1271,OPAPP launches 'new avenue' for peace in Maguindanao,positive,positive,P,P,P,P
+263,1423,Bill resetting BARMM polls to 2025 hurdles House panel ,neutral,negative,NU,P,N,Nu
+264,549,"Agri, infra damage from recent typhoons, 'habagat' top P10-B",negative,negative,N,N,N,N
+265,1360,BARMM solon pushes for creation of regional ecozone authority,positive,positive,NU,P,P,P
+266,251,OIC officials of BARMM' newest LGUs take oath,neutral,positive,NU,P,Nu,Nu
+267,1319,Maguindanao cops bust 2 gunrunners ahead of 2022 polls,neutral,negative,P,N,N,N
+268,1122,"Gov't to hold special vax drives in BARMM, Cebu next week",positive,negative,P,P,Nu,P
+269,1690,BARMM parliament approves civil service code,positive,positive,P,P,P,P
+270,298,OPAPRU: BARMM parliament did good job in ensuring region's progress,positive,positive,P,P,P,P
+271,783,Abalos bestows DILG' 'Kalasag' awards to 16 BARMM LGUs,positive,positive,NU,P,P,P
+272,945,BARMM solons urge Moro leaders to back PBBM call for nat'l unity,neutral,positive,NU,Nu,P,Nu
+273,890,PBBM calls for unity of Bangsamoro leaders,neutral,positive,P,P,P,P
+274,423,Bangsamoro-LTFRB issues new matrix for PUJ fare hike ,neutral,negative,NU,P,N,Nu
+275,630,"4Ps recipient graduates cum laude, ranks 5th in LET exam",neutral,positive,P,P,P,P
+276,944,"NCR, Cordillera under moderate risk for Covid-19: DOH",negative,negative,NU,Nu,N,Nu
+277,1403,Senate OKs resetting of BARMM elections,neutral,positive,NU,Nu,Nu,Nu
+278,171,"DSWD: Aid for TS Ferdie, Mt. Kanlaon-hit families tops P48M",positive,negative,P,P,N,P
+279,333,BARMM eyes integration of 8 new towns into sole province,neutral,positive,NU,P,P,P
+280,494,"Bicol, BARMM, E. Visayas top BSKE 'areas of grave concern' - PNP",negative,negative,N,N,N,N
+281,472,PDEA-BARMM destroys P30-M illegal drugs,negative,negative,P,P,N,P
+282,1700,P1.3-M shabu seized; 3 suspects nabbed in Maguindanao ,negative,negative,P,N,N,N
+283,924,Press Secretary Trixie Cruz-Angeles joins TikTok,neutral,positive,NU,Nu,Nu,Nu
+284,1581,Analyst acknowledges BARMM growth prospects,positive,positive,P,P,P,P
+285,433,Bangsamoro solons condemn MSU bombing,negative,negative,P,N,N,N
+286,820,"DSWD-13 sends aid to flood victims in Region 12, BARMM",negative,negative,P,P,N,P
+287,1330,BARMM labor exec wants oil depots in Maguindanao to return,neutral,negative,NU,P,N,Nu
+288,1041,Comelec declares 'failure of elections' in 3 Lanao del Sur towns,negative,negative,NU,N,N,N
+289,1291,400 Bangsamoro overseas workers get aid from MOLE-BARMM,neutral,positive,P,P,P,P
+290,683,BARMM electoral code signed into law,neutral,positive,P,P,P,P
+291,176,Habagat' continues to drench most of PH,neutral,negative,N,N,N,N
+292,584,BARMM satisfied with PBBM's handling of Mindanao peace process,positive,positive,P,P,P,P
+293,484,"Int'l NGO, Cotabato City support women in peacebuilding efforts",positive,positive,P,P,P,P
+294,933,"Azurin justifies revamp of 3 top PNP execs, 77 other posts",positive,positive,NU,Nu,Nu,Nu
+295,1068,MILF's political party nod 'big boost' to Leni' bid: solon,positive,positive,NU,Nu,P,Nu
+296,354,DBM releases PHP1.295-B for school electrification,neutral,positive,P,P,P,P
+297,818,"Price freeze now in effect in BARMM, Zamboanga City",positive,negative,P,P,P,P
+298,375,"Gov't to bid out 8 areas for coal, petroleum, hydrogen exploration",positive,negative,NU,Nu,Nu,Nu
+299,199,PH urges UNSC to advance inclusive conflict prevention approaches,negative,positive,P,P,P,P
+300,16,Comelec releases list of online campaign platforms of nat'l bets,neutral,positive,P,Nu,Nu,Nu
+301,266,PH reaffirms strong defense ties with Brunei,positive,positive,P,P,P,P
+302,498,OPAPRU cites PNP's vital contributions to peace process,positive,positive,P,P,P,P
+303,1691,"Drug suspect nabbed, P680-K shabu seized in Maguindanao",negative,negative,P,N,N,N
+304,744,BARMM to host 1st Bangsamoro business congress,neutral,positive,P,P,P,P
+305,644,Mindanao economy posts 7.2% GRDP growth in 2022,positive,positive,P,P,P,P
+306,1357,"PRO-BARMM seeks public, politicians' support for peaceful polls",positive,positive,P,P,P,P
+307,519,PRO-BARMM fetes 4 Maguindanao Sur cops injured in BIFF attack,negative,positive,NU,N,N,N
+308,678,BARMM modifies work schedule for Ramadan,neutral,negative,P,Nu,Nu,Nu
+309,1211,"PRRD wants 'Odette' victims safely sheltered, vaccinated",positive,negative,P,P,P,P
+310,200,"Halal' economic dev't, a priority agenda in BIMP-EAGA: MinDA",neutral,negative,NU,Nu,Nu,Nu
+311,1453,BARMM starts construction of P5-M warehouse in Maguindanao,neutral,positive,P,P,P,P
+312,768,"BARMM leaders, law enforcers tackle 5 security concerns",positive,negative,NU,P,N,Nu
+313,1112,Special vax days in VisMin regions reach 60% target,positive,positive,P,Nu,Nu,Nu
+314,1069,BaSulTa candidates ink pact for peaceful polls,positive,positive,P,P,P,P
+315,835,"PBBM eyes declaration of state of calamity in Bicol, BARMM",neutral,negative,N,N,N,N
+316,975,Active cop wanted for carnapping falls in Cotabato,positive,negative,P,N,N,N
+317,1084,"Food, shelter will not be a problem, PRRD tells 'Agaton' victims",neutral,positive,P,P,Nu,P
+318,1371,BARMM turns over 3 barangay health stations in Marawi,neutral,negative,P,P,P,P
+319,514,P3.4-M 'shabu' seized in Cotabato City,neutral,negative,P,N,N,N
+320,757,P25-M public market to rise in Maguindanao Norte upland town,neutral,positive,P,N,P,P
+321,487,PNP sees no BSKE postponement,negative,neutral,NU,Nu,Nu,Nu
+322,57,"DAR, MAFAR collaborate for Bangsamoro Region agri progress",positive,positive,P,P,P,P
+323,399,Japan pledges $5-M for BARMM food program,neutral,positive,P,P,P,P
+324,1058,"BARMM economy grows 7.5%, now PH 2nd fastest-growing region",neutral,positive,P,P,P,P
+325,44,6 BIFF extremists surrender to BARMM police,neutral,negative,P,P,N,P
+326,101,BARMM cites rural physicians for service to indigent communities,neutral,positive,P,P,P,P
+327,275,Improved access to social services to further cut poverty in BARMM,negative,positive,P,P,P,P
+328,1197,Covid-19 infections in BARMM waning: health exec,neutral,negative,NU,Nu,P,Nu
+329,102,SC: BARMM ruling goes into effect despite appeal,neutral,negative,NU,Nu,N,Nu
+330,1002,Lanao Sur village gets P2.9-M water system from BARMM,neutral,positive,P,P,P,P
+331,108,BARMM cops seize P50-M smuggled cigarettes in 3 months,negative,negative,P,P,N,P
+332,1406,"Tawi-Tawi gets sea, land ambulances",neutral,positive,P,Nu,P,P
+333,1693,BARMM distributes over 500 ICT equipment to field offices,neutral,positive,P,P,P,P
+334,1024,Ex-MILF fighters finish skills training in Maguindanao,negative,negative,P,P,P,P
+335,661,700 residents from 2 Lanao Sur towns get medical aid,neutral,positive,P,P,P,P
+336,1701,Solons push for the extension of BARMM transition period,neutral,positive,NU,Nu,P,Nu
+337,651,Army settles feud of warring Moro clans in Maguindanao Sur,negative,negative,NU,P,P,P
+338,779,PBBM wants more ecozones in BARMM: PEZA,neutral,positive,NU,P,P,P
+339,1643,"PDEA-BARMM nets P1.4-M drugs in Maguindanao, Cotabato City ops",neutral,positive,NU,N,P,P
+340,1114,"100 ex-MILF members complete skills, livelihood training",positive,positive,P,P,P,P
+341,129,DSWD aid to 'Kristine'-hit LGUs reaches P2.3-M,positive,negative,P,P,P,P
+342,594,"PNP, BARMM execs meet to improve security in Mindanao",positive,positive,P,P,Nu,P
+343,1347,MILF party fields bet vs. Cotabato reelectionist mayor,positive,negative,NU,Nu,Nu,Nu
